@@ -1,0 +1,43 @@
+
+h1 {
+    color: black;
+    font-size: 36px;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    color: green;
+    font-size: 18px;
+    font-family: Georgia, serif;
+    text-align: justify;
+}
+
+img {
+    border: 5px solid red;
+    box-shadow: 10px 10px 5px grey;
+}
+
+.bordered-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.bordered-table th, .bordered-table td {
+    border: 2px solid black;
+    padding: 10px;
+}
+
+body {
+    background-color: #f0f0f0;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    border: 2px solid orange;
+    padding: 10px;
+    border-radius: 10px;
+}
